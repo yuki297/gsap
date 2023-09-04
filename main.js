@@ -305,3 +305,6 @@ closeTrigger.on("click", function () {
         tlClose.restart();
     }
 });
+
+
+console.log("Hello World!");
